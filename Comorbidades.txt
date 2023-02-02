@@ -1,0 +1,8 @@
+Nome: Ingrid Carvalho
+Idade: 30
+Comorbidades: Nenhuma
+----------------------------------------------------------------
+Nome: Gabriel Alboguette
+Idade: 25
+Comorbidades: Diabete
+----------------------------------------------------------------
